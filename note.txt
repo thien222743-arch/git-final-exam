@@ -1,3 +1,5 @@
 Git rất thú vị
 Tôi học được nhiều điều
 Git giúp quản lý phiên bản tốt hơn
+Tôi đang học reset và revert
+Bài tập này khá hay
